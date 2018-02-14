@@ -1,5 +1,14 @@
+<<<<<<< HEAD
+hELLO nAGES DOING GRAT JOB
+
+tHIS CHANGE DONE ANOTHER USER
+=======
 hELLO nAGES DOING 
 
 nEW tEXT
+<<<<<<< HEAD
 
 hI all
+=======
+>>>>>>> S12345
+>>>>>>> development
